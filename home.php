@@ -108,17 +108,21 @@ if(isset($_SESSION['email']) && $credential_row['type']=='admin'){
     </head>
 
     <body>
-        <div>
-           <?php
-            require 'header.php';
-           ?>
+      <div class="container-fluid">
+           
            <!-- Background Image start -->
            <img src="img/bg.jpg" style="z-index: -1; position: fixed; width: 100%; margin-top: 50px;">
            <!-- Background Image end -->
+           <div class="row">
+             <div class="col-md-3" style="background: green;">one
 
+             </div>
+             <div class="col-md-9">two
 
-
-            <!-- //||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+             <?php
+            require 'header.php';
+           ?>
+               <!-- //||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
             // Dashboard Section start
             //|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
             
@@ -380,6 +384,11 @@ if(isset($_SESSION['email']) && $credential_row['type']=='admin'){
             <!-- //||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
             // Customers Report Section end
             //|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
+             </div>
+           </div>
+
+
+            
            
 
             <br><br> <br><br><br><br>
