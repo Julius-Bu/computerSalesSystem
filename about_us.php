@@ -85,6 +85,8 @@ $user_id=$_SESSION['id'];
                             <p><b>Phone No.:</b> +256 784 493624</p>
                             <p><b>WhatsApp No.:</b> +256 750 047518</p>
                             <p><b>e-mail:</b> <e-mail>buwembojulius3@gmail.com</e-mail></p>
+                            <p><b>Twitter:</b> @JulsBot</p>
+                            <p><b>Github:</b> Julius-Bu</p>
                         </div>
                     </div>
                     <!-- Member sub-section end -->
