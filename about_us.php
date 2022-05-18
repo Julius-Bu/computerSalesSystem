@@ -65,10 +65,8 @@ $user_id=$_SESSION['id'];
                     <h1>About Us</h1>
                     <p>MAKERERE UNIVERSITY</p>
                     <p>BACHELOR OF INFORMATION SYSTEMS AND TECHNOLOGY</p>
-                    <p>YEAR 2, 2020/21</p>
-                    <p>IST 2205: Web Systems and Technology</p>
-                    <p><i> By; Mr. Bitwire George Albert</i></p> <br>
-                    <p><b>December 2021</b> </p>
+                    <p>YEAR 3, 2022</p>
+                    <p>This is my personal work</p>
                     </center>
                 </div>
             </div>
@@ -78,55 +76,15 @@ $user_id=$_SESSION['id'];
             // Members section start
             //|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| -->
             <div class="container">
-                <h2 style="margin-top: 50px;">GROUP MEMBERS</h2>
+                <h2 style="margin-top: 50px;">My Info.</h2>
                 <div class="row">
                     <!-- Member sub-section start -->
                     <div class="col-md-4 col-sm-7">
                         <div class="thumbnail">
-                            <p><b>Name:</b> Bandese Violet</p>
-                            <p><b>Student No.:</b> 1800720882</p>
-                            <p><b>Reg. No.:</b> 18/U/20882/EVE</p>
-                            <p><b>Phone No.:</b> +256 787 960847</p>
-                        </div>
-                    </div>
-                    <!-- Member sub-section end -->
-                    <!-- Member sub-section start -->
-                    <div class="col-md-4 col-sm-7">
-                        <div class="thumbnail">
-                            <p><b>Name:</b> Sanya Hillary</p>
-                            <p><b>Student No.:</b> 1800720928</p>
-                            <p><b>Reg. No.:</b> 18/U/20928/EVE</p>
-                            <p><b>Phone No.:</b> +256 758 620225</p>
-                        </div>
-                    </div>
-                    <!-- Member sub-section end -->
-                    <!-- Member sub-section start -->
-                    <div class="col-md-4 col-sm-7">
-                        <div class="thumbnail">
-                            <p><b>Name:</b> Mugasha Eunison</p>
-                            <p><b>Student No.:</b> 1800722825</p>
-                            <p><b>Reg. No.:</b> 18/U/22825/PS</p>
-                            <p><b>Phone No.:</b> </p>
-                        </div>
-                    </div>
-                    <!-- Member sub-section end -->
-                    <!-- Member sub-section start -->
-                    <div class="col-md-4 col-sm-7">
-                        <div class="thumbnail">
-                            <p><b>Name:</b> Achen Janet Florence</p>
-                            <p><b>Student No.:</b> 1800726077</p>
-                            <p><b>Reg. No.:</b> 18/U/26077/PS</p>
-                            <p><b>Phone No.:</b> </p>
-                        </div>
-                    </div>
-                    <!-- Member sub-section end -->
-                    <!-- Member sub-section start -->
-                    <div class="col-md-4 col-sm-7">
-                        <div class="thumbnail">
-                            <p><b>Name:</b> Kulume Mary Alegan</p>
-                            <p><b>Student No.:</b> 1800741773</p>
-                            <p><b>Reg. No.:</b> 18/U/41773</p>
-                            <p><b>Phone No.:</b> </p>
+                            <p><b>Name:</b> Julius Buwembo</p>
+                            <p><b>Phone No.:</b> +256 784 493624</p>
+                            <p><b>WhatsApp No.:</b> +256 750 047518</p>
+                            <p><b>e-mail:</b> <e-mail>buwembojulius3@gmail.com</e-mail></p>
                         </div>
                     </div>
                     <!-- Member sub-section end -->
@@ -148,7 +106,7 @@ $user_id=$_SESSION['id'];
            <footer class="footer">
                <div class="container">
                 <center>
-                 
+                 <p> &copy Buwembo Julius 2022 </p>
                </center>
                </div>
            </footer>
