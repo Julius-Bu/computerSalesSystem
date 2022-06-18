@@ -129,6 +129,7 @@ $user_id=$_SESSION['id'];
            <footer class="footer"> 
                <div class="container">
                <center> 
+               <p> &copy Buwembo Julius 2022 </p>
                </center>
                </div>
            </footer>
